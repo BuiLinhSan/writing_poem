@@ -8,6 +8,7 @@ if __name__ == '__main__':
             '11111', 
             '22222',
             'xxxxx',
-            'yyyyy'
+            'yyyyy',
+            'zzzzz'
         ]
     print(write_poem(sentence1))
