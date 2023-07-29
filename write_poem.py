@@ -6,8 +6,6 @@ if __name__ == '__main__':
     sentence1 =\
         [
             '11111', 
-            '22222',
-            '33333',
-            '44444'
+            '22222'
         ]
     print(write_poem(sentence1))
