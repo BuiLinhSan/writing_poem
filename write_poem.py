@@ -9,6 +9,10 @@ if __name__ == '__main__':
             '22222',
             'xxxxx',
             'yyyii',
+<<<<<<< HEAD
             'zzzmm'
+=======
+            'zzzkk'
+>>>>>>> 55b528639ec2b28bb498f224130baac0b8782312
         ]
     print(write_poem(sentence1))
